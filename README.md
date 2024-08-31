@@ -39,3 +39,7 @@ To avoid this attack in our patched version, we avoid directly interacting with 
 Changes were done only in memstore.js.
 
 index.js was based on https://security.snyk.io/vuln/SNYK-JS-TOUGHCOOKIE-5672873 POC, ran command "npm install tough-cookie@2.5.0 && node index.js" for the test
+
+
+Tag:
+v2.5.0-patched
